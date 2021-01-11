@@ -1,0 +1,4 @@
+baseURL = "https://samplesheetmusicviv.vercel.app"
+languageCode = "en-us"
+title = "Sample Night Sheet Music"
+theme = "hugo-theme-minos"
